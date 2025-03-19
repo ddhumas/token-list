@@ -1,0 +1,10 @@
+{
+  "name": "HUMAScoin",
+  "symbol": "HUMSX",
+  "description": "The official token of HUMAS System",
+  "image": "https://your-logo-url.png",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
