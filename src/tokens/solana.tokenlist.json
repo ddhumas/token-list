@@ -1,4 +1,17 @@
 {
+  "name": "HUMAS Token List",
+  "logoURI": "https://raw.githubusercontent.com/ddhumas/token-list/main/humascoin.png",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Tokens used for energy exchange and value inside HUMAS System."
+    },
+    "energy": {
+      "name": "Energy",
+      "description": "Energy-based token model"
+    }
+  },
+  "timestamp": "2025-03-21T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 101,
@@ -6,12 +19,12 @@
       "symbol": "HUMSX",
       "name": "HUMAScoin",
       "decimals": 9,
-      "logoURI": "https://github.com/ddhumas/token-list/blob/main/humascoin.png",
-      "tags": ["human-energy", "HUMAScoin", "HUNIT"],
+      "logoURI": "https://raw.githubusercontent.com/ddhumas/token-list/main/humascoin.png",
+      "tags": ["utility-token", "energy"],
       "extensions": {
         "website": "https://humascoin.com",
-        "x": "https://x.com/humassystem",
-        "description": "HUMAScoin (HUMSX) is a unique token based on the concept of human energy. 1 HUMAScoin is created based on HUNIT (HU) — a unit of measurement for human energy, where 1 HUNIT is equivalent to 1 kWh."
+        "twitter": "https://x.com/HUMASSystem",
+        "description": "HUMAScoin is the official token of the HUMAS System, designed to represent human energy in the digital economy. HUMAScoin is tied to the HUNIT energy standard and valued at 1 kWh, enabling people to convert effort into measurable, transferrable digital assets."
       }
     }
   ]
