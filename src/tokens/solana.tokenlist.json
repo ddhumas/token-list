@@ -9,6 +9,10 @@
     "energy": {
       "name": "Energy",
       "description": "Energy-based token model"
+    },
+    "deprecated": {
+      "name": "Deprecated",
+      "description": "No longer active or supported token."
     }
   },
   "timestamp": "2025-03-21T00:00:00+00:00",
@@ -25,6 +29,19 @@
         "website": "https://humascoin.com",
         "twitter": "https://x.com/HUMASSystem",
         "description": "HUMAScoin is the official token of the HUMAS System, designed to represent human energy in the digital economy. HUMAScoin is tied to the HUNIT energy standard and valued at 1 kWh, enabling people to convert effort into measurable, transferrable digital assets."
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "98AdVnVTxDqD1KP2mhUE7fsKw5CvgDyz3QdcQgBA7i8T",
+      "symbol": "HUMSX-OLD",
+      "name": "HUMAScoin (Old)",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ddhumas/token-list/main/humascoin.png",
+      "tags": ["deprecated"],
+      "extensions": {
+        "description": "This is the old version of HUMAScoin. Please use the new token: BiL8onSRtK9BkVdPLUhU8qpkmRpLFEGKimrCuRgaNiwZ",
+        "website": "https://humascoin.com"
       }
     }
   ]
