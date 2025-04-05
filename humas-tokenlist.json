@@ -1,0 +1,37 @@
+{
+  "name": "HUMAS Token List",
+  "logoURI": "https://cdn.jsdelivr.net/gh/ddhumas/token-list@b15b15d44ab5a80ebcf8896d8636471da5863eae/humascoin-core-logo.png",
+  "tags": {
+    "human": {
+      "name": "Human Energy"
+    },
+    "social": {
+      "name": "Social Economy"
+    },
+    "meritocracy": {
+      "name": "Meritocracy"
+    }
+  },
+  "timestamp": "2025-04-05T03:30:23.133791Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "BiL8onSRtK9BkVdPLUhU8qpkmRpLFEGKimrCuRgaNiwZ",
+      "symbol": "HUMSX",
+      "name": "HUMAScoin",
+      "decimals": 9,
+      "logoURI": "https://cdn.jsdelivr.net/gh/ddhumas/token-list@b15b15d44ab5a80ebcf8896d8636471da5863eae/humascoin-core-logo.png",
+      "tags": [
+        "human",
+        "social",
+        "meritocracy"
+      ],
+      "extensions": {
+        "website": "https://humascoin.com",
+        "twitter": "https://x.com/HUMASSystem",
+        "telegram": "https://t.me/humassystem",
+        "description": "HUMAScoin (HUMSX) is the official token of the HUMAS System — the internal currency of a human-centered digital economy, backed by human energy. 1 HUNIT = 1 kWh. HUMAScoin = 0.382 kWh. It transforms human effort, thought, and emotion into measurable, transferable digital assets. More than a token, it’s a tool of transformation in a meritocratic model where contribution becomes value, and energy becomes legacy."
+      }
+    }
+  ]
+}
